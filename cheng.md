@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 这里我在远程删除了
+这里是我实验fetch+rebase
 
 我要开始实验fetch+rebase了
 
